@@ -11,11 +11,11 @@
 ## Technologies used
     Python 3
 ## Learning Outcomes
-   Python Libraries
-   Input Validation
-   Python String Handling
-   Using modules
-   Parameterized Functions 
+   -> Python Libraries
+   -> Input Validation
+   -> Python String Handling
+   -> Using modules
+   -> Parameterized Functions 
 
 ## Author  
   Kusuma Surisetti
